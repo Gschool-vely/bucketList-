@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #eeeeee;
+    padding: 5px 15px;
+}
+.top-text {
+    display: flex;
+    text-decoration: none;
+}
+.top-text a {
+    font-size: 30px;
+    color: black
+    
+}
+.top-menu {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+.top-menu li {
+    padding: 3px 10px;
+    font-size: 20px;
+}
+
+}
